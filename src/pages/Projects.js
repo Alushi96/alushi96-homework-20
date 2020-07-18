@@ -24,10 +24,10 @@ function Projects() {
                 <Col size="md-3"></Col>
 
                 <Col size="md-3">
-                    <Project img="trace-me.png" alt="profile" href="https://trace-me-app.herokuapp.com/main.html" pname="Trace Me"></Project>
+                    <Project img="trace-me.PNG" alt="profile" href="https://trace-me-app.herokuapp.com/main.html" pname="Trace Me"></Project>
                 </Col>
                 <Col size="md-3">
-                    <Project img="emp-direct.png" alt="profile" href="https://quiet-journey-55809.herokuapp.com/" pname="Employee Directory"></Project>
+                    <Project img="emp-direct.PNG" alt="profile" href="https://quiet-journey-55809.herokuapp.com/" pname="Employee Directory"></Project>
                 </Col>
             </Row>
 
