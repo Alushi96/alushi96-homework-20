@@ -14,20 +14,20 @@ function Projects() {
                 <Col size="md-3"></Col>
 
                 <Col size="md-3">
-                    <Project img="" alt="profile" href="https://athomik79.github.io/WTF-app/" pname="First Project: WTF-App"></Project>
+                    <Project img="WTF-App.png" alt="profile" href="https://athomik79.github.io/WTF-app/" pname="First Project: WTF-App"></Project>
                 </Col>
                 <Col size="md-3">
-                    <Project img="" alt="profile" href="https://afternoon-caverns-43648.herokuapp.com/" pname="Eat-Da-Burger App"></Project>
+                    <Project img="burger_header.png" alt="profile" href="https://afternoon-caverns-43648.herokuapp.com/" pname="Eat-Da-Burger App"></Project>
                 </Col>
             </Row>
             <Row>
                 <Col size="md-3"></Col>
 
                 <Col size="md-3">
-                    <Project img="" alt="profile" href="https://trace-me-app.herokuapp.com/main.html" pname="Trace Me"></Project>
+                    <Project img="trace-me.png" alt="profile" href="https://trace-me-app.herokuapp.com/main.html" pname="Trace Me"></Project>
                 </Col>
                 <Col size="md-3">
-                    <Project img="" alt="profile" href="https://afternoon-caverns-43648.herokuapp.com/" pname="Eat-Da-Burger App"></Project>
+                    <Project img="emp-direct.png" alt="profile" href="https://quiet-journey-55809.herokuapp.com/" pname="Employee Directory"></Project>
                 </Col>
             </Row>
 
