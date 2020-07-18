@@ -1,0 +1,10 @@
+import React from "react";
+
+function Card(props) {
+  return (
+    <div className="card" style={props.style}>
+    </div>
+  );
+}
+
+export default Card;
